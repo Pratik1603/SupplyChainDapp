@@ -1,0 +1,18 @@
+.service-block{
+    background-color:#172554;
+    
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    width:50%;
+    height:80px;
+    border-radius:10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.service-block:hover{
+    background-color: #1e3a8a;
+}
